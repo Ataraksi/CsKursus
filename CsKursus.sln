@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48Enum", "48Enum\48Enum.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50BreakContinue", "50BreakContinue\50BreakContinue.csproj", "{11FB0542-8042-43B6-AA26-C49D39E79675}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "65SimpleFejlhåndtering", "65SimpleFejlhåndtering\65SimpleFejlhåndtering.csproj", "{77510DA6-57A5-4EF9-B088-264A50B2E3C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{11FB0542-8042-43B6-AA26-C49D39E79675}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11FB0542-8042-43B6-AA26-C49D39E79675}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11FB0542-8042-43B6-AA26-C49D39E79675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77510DA6-57A5-4EF9-B088-264A50B2E3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77510DA6-57A5-4EF9-B088-264A50B2E3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77510DA6-57A5-4EF9-B088-264A50B2E3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77510DA6-57A5-4EF9-B088-264A50B2E3C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
