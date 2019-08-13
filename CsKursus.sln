@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugTest", "DebugTest\DebugTest.csproj", "{FF4D0C60-4B03-47F8-9FCD-365039EAB8BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10DebugTest", "DebugTest\10DebugTest.csproj", "{FF4D0C60-4B03-47F8-9FCD-365039EAB8BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40SimpleVariabler", "40SimpleVariabler\40SimpleVariabler.csproj", "{5F0F57AF-7B34-43AE-A1E3-437B840B0F08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40Regnemaskine", "40Regnemaskine\40Regnemaskine.csproj", "{04010D0C-13EC-4726-ABCC-9EA0B80A7E6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5F0F57AF-7B34-43AE-A1E3-437B840B0F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F0F57AF-7B34-43AE-A1E3-437B840B0F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F0F57AF-7B34-43AE-A1E3-437B840B0F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04010D0C-13EC-4726-ABCC-9EA0B80A7E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04010D0C-13EC-4726-ABCC-9EA0B80A7E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04010D0C-13EC-4726-ABCC-9EA0B80A7E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04010D0C-13EC-4726-ABCC-9EA0B80A7E6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
