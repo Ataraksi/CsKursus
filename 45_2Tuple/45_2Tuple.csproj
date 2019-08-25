@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_45_2Tuple</RootNamespace>
+    <StartupObject>_45_2Tuple.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10DebugTest", "DebugTest\10DebugTest.csproj", "{FF4D0C60-4B03-47F8-9FCD-365039EAB8BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25_1DebugTest", "DebugTest\25_1DebugTest.csproj", "{FF4D0C60-4B03-47F8-9FCD-365039EAB8BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40SimpleVariabler", "40SimpleVariabler\40SimpleVariabler.csproj", "{5F0F57AF-7B34-43AE-A1E3-437B840B0F08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40_1SimpleVariabler", "40SimpleVariabler\40_1SimpleVariabler.csproj", "{5F0F57AF-7B34-43AE-A1E3-437B840B0F08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40Regnemaskine", "40Regnemaskine\40Regnemaskine.csproj", "{04010D0C-13EC-4726-ABCC-9EA0B80A7E6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40_3Regnemaskine", "40Regnemaskine\40_3Regnemaskine.csproj", "{04010D0C-13EC-4726-ABCC-9EA0B80A7E6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45DateTimeTimeSpan", "45DateTimeTimeSpan\45DateTimeTimeSpan.csproj", "{644F437E-8A5A-488C-8000-BF8FFB552FE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40_2DateTimeTimeSpan", "45DateTimeTimeSpan\40_2DateTimeTimeSpan.csproj", "{644F437E-8A5A-488C-8000-BF8FFB552FE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45Strenge", "45Strenge\45Strenge.csproj", "{0FDBFF66-9EE6-41DF-BC60-B3A8FB47E940}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "45_1Strenge", "45Strenge\45_1Strenge.csproj", "{0FDBFF66-9EE6-41DF-BC60-B3A8FB47E940}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48Enum", "48Enum\48Enum.csproj", "{6E2B33EB-4AD6-46C8-929E-C43E47C13668}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "48_1Enum", "48Enum\48_1Enum.csproj", "{6E2B33EB-4AD6-46C8-929E-C43E47C13668}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50BreakContinue", "50BreakContinue\50BreakContinue.csproj", "{11FB0542-8042-43B6-AA26-C49D39E79675}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50_2BreakContinue", "50BreakContinue\50_2BreakContinue.csproj", "{11FB0542-8042-43B6-AA26-C49D39E79675}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "65SimpleFejlhåndtering", "65SimpleFejlhåndtering\65SimpleFejlhåndtering.csproj", "{77510DA6-57A5-4EF9-B088-264A50B2E3C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "65_1SimpleFejlhåndtering", "65SimpleFejlhåndtering\65_1SimpleFejlhåndtering.csproj", "{77510DA6-57A5-4EF9-B088-264A50B2E3C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "65EgneExceptions", "65EgneExceptions\65EgneExceptions.csproj", "{BDB06C0A-03DD-4C2B-9F78-5A1D349B899A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "65_2EgneExceptions", "65EgneExceptions\65_2EgneExceptions.csproj", "{BDB06C0A-03DD-4C2B-9F78-5A1D349B899A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45_2Tuple", "45_2Tuple\45_2Tuple.csproj", "{46444D6D-3726-4A43-9BC8-F0F60D64DB2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{BDB06C0A-03DD-4C2B-9F78-5A1D349B899A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB06C0A-03DD-4C2B-9F78-5A1D349B899A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB06C0A-03DD-4C2B-9F78-5A1D349B899A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46444D6D-3726-4A43-9BC8-F0F60D64DB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46444D6D-3726-4A43-9BC8-F0F60D64DB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46444D6D-3726-4A43-9BC8-F0F60D64DB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46444D6D-3726-4A43-9BC8-F0F60D64DB2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
