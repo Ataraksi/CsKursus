@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60_2StatiskeMetoder", "60_2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60_3Overload", "60_3Overload\60_3Overload.csproj", "{343C2D37-3D7D-41EE-AC60-CCD03BD57342}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_1SimpleArray", "70_1SimpleArray\70_1SimpleArray.csproj", "{31945E8E-6823-40AA-8322-5D0F1D02B405}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{343C2D37-3D7D-41EE-AC60-CCD03BD57342}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{343C2D37-3D7D-41EE-AC60-CCD03BD57342}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{343C2D37-3D7D-41EE-AC60-CCD03BD57342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31945E8E-6823-40AA-8322-5D0F1D02B405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31945E8E-6823-40AA-8322-5D0F1D02B405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31945E8E-6823-40AA-8322-5D0F1D02B405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31945E8E-6823-40AA-8322-5D0F1D02B405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
