@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_2ArraySplit", "70_2Array
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75_1SimpleSamlinger", "75_1SimpleSamlinger\75_1SimpleSamlinger.csproj", "{B437559F-9DC4-4931-9706-BDD8F6C60C94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "80_1SimpleKlasser", "80_1SimpleKlasser\80_1SimpleKlasser.csproj", "{1F46807F-4ED0-4B01-9D1D-04551EC6B625}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{B437559F-9DC4-4931-9706-BDD8F6C60C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B437559F-9DC4-4931-9706-BDD8F6C60C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B437559F-9DC4-4931-9706-BDD8F6C60C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F46807F-4ED0-4B01-9D1D-04551EC6B625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F46807F-4ED0-4B01-9D1D-04551EC6B625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F46807F-4ED0-4B01-9D1D-04551EC6B625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F46807F-4ED0-4B01-9D1D-04551EC6B625}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

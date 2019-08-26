@@ -6,7 +6,10 @@ namespace _65EgneExceptions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //static string SmartToUpper(string tekst)
+            //{
+
+            //};
         }
     }
 }
