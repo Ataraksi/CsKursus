@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "60_1SimpleMetoder", "60_1Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60_2StatiskeMetoder", "60_2StatiskeMetoder\60_2StatiskeMetoder.csproj", "{A9206EFA-CCA5-43ED-BF67-B72F0829DB2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60_3Overload", "60_3Overload\60_3Overload.csproj", "{343C2D37-3D7D-41EE-AC60-CCD03BD57342}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A9206EFA-CCA5-43ED-BF67-B72F0829DB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9206EFA-CCA5-43ED-BF67-B72F0829DB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9206EFA-CCA5-43ED-BF67-B72F0829DB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343C2D37-3D7D-41EE-AC60-CCD03BD57342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343C2D37-3D7D-41EE-AC60-CCD03BD57342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343C2D37-3D7D-41EE-AC60-CCD03BD57342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343C2D37-3D7D-41EE-AC60-CCD03BD57342}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
