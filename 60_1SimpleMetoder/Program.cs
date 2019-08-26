@@ -6,7 +6,7 @@ namespace _60_1SimpleMetoder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Heo World!");
         }
     }
 }
