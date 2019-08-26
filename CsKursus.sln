@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60_3Overload", "60_3Overloa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_1SimpleArray", "70_1SimpleArray\70_1SimpleArray.csproj", "{31945E8E-6823-40AA-8322-5D0F1D02B405}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_2ArraySplit", "70_2ArraySplit\70_2ArraySplit.csproj", "{782F00F1-1816-47DE-98B6-50FA706AAF7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75_1SimpleSamlinger", "75_1SimpleSamlinger\75_1SimpleSamlinger.csproj", "{B437559F-9DC4-4931-9706-BDD8F6C60C94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{31945E8E-6823-40AA-8322-5D0F1D02B405}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31945E8E-6823-40AA-8322-5D0F1D02B405}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31945E8E-6823-40AA-8322-5D0F1D02B405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782F00F1-1816-47DE-98B6-50FA706AAF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782F00F1-1816-47DE-98B6-50FA706AAF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782F00F1-1816-47DE-98B6-50FA706AAF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782F00F1-1816-47DE-98B6-50FA706AAF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B437559F-9DC4-4931-9706-BDD8F6C60C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B437559F-9DC4-4931-9706-BDD8F6C60C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B437559F-9DC4-4931-9706-BDD8F6C60C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B437559F-9DC4-4931-9706-BDD8F6C60C94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
