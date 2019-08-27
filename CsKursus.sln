@@ -27,19 +27,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "50_1BrugForIf", "50_1BrugFo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "60_1SimpleMetoder", "60_1SimpleMetoder\60_1SimpleMetoder.csproj", "{A2033869-CF9C-4160-A7CF-81C322E74525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60_2StatiskeMetoder", "60_2StatiskeMetoder\60_2StatiskeMetoder.csproj", "{A9206EFA-CCA5-43ED-BF67-B72F0829DB2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "60_2StatiskeMetoder", "60_2StatiskeMetoder\60_2StatiskeMetoder.csproj", "{A9206EFA-CCA5-43ED-BF67-B72F0829DB2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60_3Overload", "60_3Overload\60_3Overload.csproj", "{343C2D37-3D7D-41EE-AC60-CCD03BD57342}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "60_3Overload", "60_3Overload\60_3Overload.csproj", "{343C2D37-3D7D-41EE-AC60-CCD03BD57342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_1SimpleArray", "70_1SimpleArray\70_1SimpleArray.csproj", "{31945E8E-6823-40AA-8322-5D0F1D02B405}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70_1SimpleArray", "70_1SimpleArray\70_1SimpleArray.csproj", "{31945E8E-6823-40AA-8322-5D0F1D02B405}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_2ArraySplit", "70_2ArraySplit\70_2ArraySplit.csproj", "{782F00F1-1816-47DE-98B6-50FA706AAF7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70_2ArraySplit", "70_2ArraySplit\70_2ArraySplit.csproj", "{782F00F1-1816-47DE-98B6-50FA706AAF7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75_1SimpleSamlinger", "75_1SimpleSamlinger\75_1SimpleSamlinger.csproj", "{B437559F-9DC4-4931-9706-BDD8F6C60C94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "75_1SimpleSamlinger", "75_1SimpleSamlinger\75_1SimpleSamlinger.csproj", "{B437559F-9DC4-4931-9706-BDD8F6C60C94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "80_1SimpleKlasser", "80_1SimpleKlasser\80_1SimpleKlasser.csproj", "{1F46807F-4ED0-4B01-9D1D-04551EC6B625}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "80_1SimpleKlasser", "80_1SimpleKlasser\80_1SimpleKlasser.csproj", "{1F46807F-4ED0-4B01-9D1D-04551EC6B625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "80_2EnTerning", "80_2EnTerning\80_2EnTerning.csproj", "{24F65FE3-92F1-4C96-8420-B1594C38BB94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "80_2EnTerning", "80_2EnTerning\80_2EnTerning.csproj", "{24F65FE3-92F1-4C96-8420-B1594C38BB94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "87_1ForskelStructClass", "87_1ForskelStructClass\87_1ForskelStructClass.csproj", "{A327F438-FC68-426E-86B8-B52772D6011E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{24F65FE3-92F1-4C96-8420-B1594C38BB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F65FE3-92F1-4C96-8420-B1594C38BB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F65FE3-92F1-4C96-8420-B1594C38BB94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A327F438-FC68-426E-86B8-B52772D6011E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A327F438-FC68-426E-86B8-B52772D6011E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A327F438-FC68-426E-86B8-B52772D6011E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A327F438-FC68-426E-86B8-B52772D6011E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

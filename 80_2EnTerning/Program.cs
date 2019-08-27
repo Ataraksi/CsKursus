@@ -11,10 +11,10 @@ namespace _80_2EnTerning
             t1.Ryst();
             t1.Skriv();
 
-            Terning t2 = new Terning(true);
-            t2.Skriv();
-            t2.Ryst();
-            t2.Skriv();
+            //Terning t2 = new Terning(true);
+            //t2.Skriv();
+            //t2.Ryst();
+            //t2.Skriv();
         }
     }
     public class Terning
