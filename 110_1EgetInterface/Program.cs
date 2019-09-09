@@ -7,10 +7,10 @@ namespace _110_1EgetInterface
         static void Main(string[] args)
         {
             IDbFunktioner[] array = new IDbFunktioner[4];
-            array[0] = new Hund();
-            array[1] = new Ubåd();
-            array[2] = new Hund();
-            array[3] = new Ubåd();
+            array[0] = new Hund() { Navn = "hund0"};
+            array[1] = new Ubåd() { Nummer = 1 };
+            array[2] = new Hund() { Navn = "hund2" };
+            array[3] = new Ubåd() { Nummer = 3 };
             foreach(var item in array)
             {
                 item.Gem();
@@ -20,9 +20,11 @@ namespace _110_1EgetInterface
     class Hund : IDbFunktioner
     {
         public string Navn { get; set; }
+
+
         public void Gem()
         {
-            Console.WriteLine($"Gemmer hund...");
+            Console.WriteLine($"Gemmer hund..." + Navn);
         }
     }
     class Ubåd : IDbFunktioner
@@ -31,7 +33,7 @@ namespace _110_1EgetInterface
         public double Turbine { get; set; }
         public void Gem()
         {
-            Console.WriteLine($"Gemmer ubåd...");
+            Console.WriteLine($"Gemmer ubåd..." + Nummer);
         }
     }
     interface IDbFunktioner
