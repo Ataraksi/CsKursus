@@ -71,6 +71,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "120_1SimpelDelegates", "120
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "120_4SimpelRegnemaskineIndbyggedeDelegates", "120_4SimpelRegnemaskineIndbyggedeDelegates\120_4SimpelRegnemaskineIndbyggedeDelegates.csproj", "{0F90BC29-B54A-43CB-A24B-DDB8C1655B01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "120_5BrugAfLambda", "120_5BrugAfLambda\120_5BrugAfLambda.csproj", "{E6CE5B02-4A0B-43AF-B2C5-109C1660E6C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125_1FileSystemWatcher", "125_1FileSystemWatcher\125_1FileSystemWatcher.csproj", "{E30F768B-86C5-4154-BA7E-1C06414EECDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +217,14 @@ Global
 		{0F90BC29-B54A-43CB-A24B-DDB8C1655B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F90BC29-B54A-43CB-A24B-DDB8C1655B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F90BC29-B54A-43CB-A24B-DDB8C1655B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CE5B02-4A0B-43AF-B2C5-109C1660E6C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CE5B02-4A0B-43AF-B2C5-109C1660E6C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CE5B02-4A0B-43AF-B2C5-109C1660E6C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CE5B02-4A0B-43AF-B2C5-109C1660E6C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30F768B-86C5-4154-BA7E-1C06414EECDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30F768B-86C5-4154-BA7E-1C06414EECDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30F768B-86C5-4154-BA7E-1C06414EECDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30F768B-86C5-4154-BA7E-1C06414EECDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
