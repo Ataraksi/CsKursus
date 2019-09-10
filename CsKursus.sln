@@ -73,7 +73,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "120_4SimpelRegnemaskineIndb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "120_5BrugAfLambda", "120_5BrugAfLambda\120_5BrugAfLambda.csproj", "{E6CE5B02-4A0B-43AF-B2C5-109C1660E6C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125_1FileSystemWatcher", "125_1FileSystemWatcher\125_1FileSystemWatcher.csproj", "{E30F768B-86C5-4154-BA7E-1C06414EECDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125_1FileSystemWatcherEvents", "125_1FileSystemWatcher\125_1FileSystemWatcherEvents.csproj", "{E30F768B-86C5-4154-BA7E-1C06414EECDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "150_1LINQ", "150_\150_1LINQ.csproj", "{02238479-5137-4F0D-8531-CB7A1636303C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{E30F768B-86C5-4154-BA7E-1C06414EECDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E30F768B-86C5-4154-BA7E-1C06414EECDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E30F768B-86C5-4154-BA7E-1C06414EECDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02238479-5137-4F0D-8531-CB7A1636303C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02238479-5137-4F0D-8531-CB7A1636303C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02238479-5137-4F0D-8531-CB7A1636303C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02238479-5137-4F0D-8531-CB7A1636303C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
